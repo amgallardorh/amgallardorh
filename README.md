@@ -16,25 +16,22 @@
 
 ``` Python
 class Bio:
+    def __init__(self, nombre, apellido, rol, pais, ciudad):
+        self.Nombre = nombre
+        self.Apellido = apellido
+        self.Rol = rol
+        self.Pais = pais
+        self.Ciudad = ciudad
 
-    def __init__(self):
-        self.Nombre = "Antonio Gallardo"
-        self.Rol = "Analista de Datos"
-        self.Pais = "España"
-        self.Ciudad = "Madrid"
-    def MostrarBio(self):
-        print("Bio:(" self.Nombre"," self.Rol"," self.Pais"," self.Ciudad")")
-
-    def Saludo():
-        print("¡Gracias por tu visita!")
-        Saludo()
-
-
-
-me = Bio()
-me.say_hi()
-print(me)
+    def __str__(self):
+        return f"Autor: {self.Nombre} {self.Apellido}\nRol: {self.Rol}\nPaís: {self.Pais}\nCiudad: {self.Ciudad}"
+autor = Bio("Antonio", "Gallardo", "Analista", "España", "Madrid")
+print(autor)
 ```
+Autor: Antonio Gallardo, 
+Rol: Analista, 
+Pais: España, 
+Ciudad: Madrid
 
 <h2 align="left">## Formación:</h2>
 - 🌱 Actualmente en formación de **People Analytics, Data Science**
