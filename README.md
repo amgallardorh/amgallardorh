@@ -24,14 +24,14 @@ class Bio:
         self.Ciudad = ciudad
 
     def __str__(self):
-        return f"Autor: {self.Nombre} {self.Apellido}\n Rol: {self.Rol}\n País: {self.Pais}\n Ciudad: {self.Ciudad}"
+        return f"Autor: {self.Nombre} {self.Apellido}\nRol: {self.Rol}\nPaís: {self.Pais}\nCiudad: {self.Ciudad}"
 autor = Bio("Antonio", "Gallardo", "Analista de Datos", "España", "Madrid")
 print(autor)
 ```
-Autor: Antonio Gallardo, 
-Rol: Analista de Datos, 
-Pais: España, 
-Ciudad: Madrid
+Autor: Antonio Gallardo <br>
+Rol: Analista de Datos <br>
+Pais: España <br>
+Ciudad: Madrid <br>
 
 <h2 align="left">## Formación:</h2>
 - 🌱 Actualmente en formación de **People Analytics, Data Science**
