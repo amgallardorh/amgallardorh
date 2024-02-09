@@ -18,13 +18,17 @@
 class Bio:
 
     def __init__(self):
-        self.name = "Antonio Gallardo"
-        self.role = "Analista de Datos"
-        self.pais = "España"
-        self.ciudad = "Madrid"
+        self.Nombre = "Antonio Gallardo"
+        self.Rol = "Analista de Datos"
+        self.Pais = "España"
+        self.Ciudad = "Madrid"
+    def MostrarBio(self):
+        print("Bio:(" self.Nombre"," self.Rol"," self.Pais"," self.Ciudad")")
 
-    def say_hi(self):
-        print("Hola Mundo!")
+    def Saludo():
+        print("¡Gracias por tu visita!")
+        Saludo()
+
 
 
 me = Bio()
