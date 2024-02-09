@@ -28,10 +28,10 @@ class Bio:
 autor = Bio("Antonio", "Gallardo", "Analista", "España", "Madrid")
 print(autor)
 ```
-Autor: Antonio Gallardo, 
-Rol: Analista, 
-Pais: España, 
-Ciudad: Madrid
+Autor: Antonio Gallardo <p>
+Rol: Analista <p>
+Pais: España <p>
+Ciudad: Madrid <p>
 
 <h2 align="left">## Formación:</h2>
 - 🌱 Actualmente en formación de **People Analytics, Data Science**
