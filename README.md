@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Antonio Gallardo</h1>
 
+![Banner Readme](https://github.com/genekis24/genekis24/assets/123604158/0146f89e-6a46-4fad-bd25-ff1614324b4e)
 
-![Banner Readme](https://github.com/genekis24/genekis24/issues/1#issue-2127767732)
 <h4 align="center">Gracias por visitar mi perfil, espero que encuentres interesante algunos de mis trabajos.</h4>
 
 <p>
