@@ -61,7 +61,7 @@ Estas son algunas de las principales tecnologías que uso o en las que he trabaj
 
 <h2> ## Communicación </h2>
 
-<p float="center">
+<p align="center">
   
   [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/genekis) &nbsp;&nbsp;
   [![website](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://talentoia.com) &nbsp;&nbsp;
