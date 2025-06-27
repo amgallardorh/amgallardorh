@@ -14,28 +14,16 @@
 	
 </p>
 
-``` Python
-class Bio:
-    def __init__(self, nombre, apellido, rol, pais, ciudad):
-        self.Nombre = nombre
-        self.Apellido = apellido
-        self.Rol = rol
-        self.Pais = pais
-        self.Ciudad = ciudad
 
-    def __str__(self):
-        return f"Autor: {self.Nombre} {self.Apellido}\nRol: {self.Rol}\nPaís: {self.Pais}\nCiudad: {self.Ciudad}"
-autor = Bio("Antonio", "Gallardo", "Analista de Datos", "España", "Madrid")
-print(autor)
-```
 Autor: Antonio Gallardo <br>
 Rol: Analista de Datos <br>
 Pais: España <br>
 Ciudad: Madrid <br>
 
 <h2 align="left">## Formación:</h2>
-- 🌱 Actualmente en formación de **People Analytics, Data Science**
-
+- Máster en RRHH
+- Máster en People Analytics
+- 🌱 Actualmente en formación de Ciencia de Datos e IA Generativa
 <p>
 	
 </p>
