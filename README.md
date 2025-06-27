@@ -51,7 +51,7 @@ Estas son algunas de las principales tecnologías que uso o en las que he trabaj
 
 <h2 align="center">
   
-  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/amgallardorh) &nbsp;&nbsp;
+  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/antoniomanuelgallardocruz) &nbsp;&nbsp;
   [![website](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://talentoia.com) &nbsp;&nbsp;
   [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/amgallardorh) &nbsp;&nbsp;
   [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://www.twitter.com/amgallardorh) &nbsp;&nbsp;
